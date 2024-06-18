@@ -1,0 +1,6 @@
+[submodule "loveproof-backend"]
+	path = loveproof-backend
+	url = https://github.com/ItSoda/LoveProof-backend.git
+[submodule "loveproof-frontend"]
+	path = loveproof-frontend
+	url = https://github.com/ItSoda/LoveProof-frontend.git
